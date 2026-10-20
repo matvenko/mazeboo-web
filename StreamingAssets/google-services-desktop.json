@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189723618622",
+    "project_id": "mazeboo-d1f1c",
+    "storage_bucket": "mazeboo-d1f1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189723618622:android:c8117cee7a25c026f9106f",
+        "android_client_info": {
+          "package_name": "com.mate_zakariadze.mazeboo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6RuTX3WRgVD_9ki_18p_U66a6kN3HEbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
